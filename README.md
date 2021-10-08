@@ -3,10 +3,6 @@
 ## Precisa de uma ajuda para encontrar oque precisa?
 - [UtilsAPI](#utils)
 - [Player Economy API](#social)
-- [Blog](#blog)
-- [Streaming](#streaming)
-- [Skills](#skills)
-- [Jogos](#jogos)
 
 ## UtilsAPI
 
